@@ -6,7 +6,7 @@ https://github.com/Annie-Huang/learn-rollup
 ===================================================
 
 C:\react\learn-rollup>npm install --save-dev rollup
-
+C:\react\learn-rollup>node_modules\.bin\rollup -c
 
 
 
