@@ -1,0 +1,12 @@
+https://www.youtube.com/watch?v=ICYLOZuFMz8&t=417s
+https://github.com/jlengstorf/learn-rollup
+
+https://github.com/Annie-Huang/learn-rollup
+
+===================================================
+
+C:\react\learn-rollup>npm install --save-dev rollup
+
+
+
+
