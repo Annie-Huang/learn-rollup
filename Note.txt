@@ -13,3 +13,4 @@ We need babel to transpile into ES5 syntax so older browser, e.g. IE9 can unders
 
 C:\react\learn-rollup>npm install --save-dev rollup-plugin-babel
 C:\react\learn-rollup>npm install --save-dev @babel/core
+C:\react\learn-rollup>npm install --save-dev babel-preset-es2015-rollup
