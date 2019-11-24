@@ -1,3 +1,6 @@
+// Rollup plugins
+import babel from 'rollup-plugin-babel';
+
 export default {
   input: 'src/scripts/main.js',
   output: {
@@ -5,4 +8,9 @@ export default {
     format: 'iife',
     sourceMap: 'inline',
   },
+  plugins: [
+    babel({
+      exclude: 'node_modules/**',
+    })
+  ]
 };
