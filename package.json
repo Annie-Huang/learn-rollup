@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/jlengstorf/learn-rollup#readme",
   "devDependencies": {
+    "@babel/core": "^7.7.4",
     "rollup": "^1.27.0",
     "rollup-plugin-babel": "^4.3.3"
   },
