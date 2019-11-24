@@ -8,5 +8,7 @@ https://github.com/Annie-Huang/learn-rollup
 C:\react\learn-rollup>npm install --save-dev rollup
 C:\react\learn-rollup>node_modules\.bin\rollup -c
 
+E.g. main.min.js, we have arr.reduce((a, b) => a + b, 0);
+We need babel to transpile into ES5 syntax so older browser, e.g. IE9 can understand
 
-
+C:\react\learn-rollup>npm install --save-dev rollup-plugin-babel
